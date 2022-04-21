@@ -1,0 +1,17 @@
+El juego debe tener las siguientes condiciones;
+
+1- las palabras deben estar listadas en un archivo de texto .txt o csv o excel el cual debe ser leido y las palabras deben ser cargadas y selecionadas aleatoriamente desde este archivo.
+
+2-Al alcanzar los tres intentos se debe mostrar la figura del la caricatura completa segun la imagen del principio, con cada intento fallido se debe ir dibujando o simulado parcialmente hasta completar con los tres intentos.
+
+3- El maximo de intentos para adivinar la palabra son 3 por defecto, pero esta cantidad debe ser parametrizable.
+
+4- Las palabras deben ser selecionadas de manera aleatorias.
+
+5- Se debe manejar en un repositorio GIT.
+
+Se debe subir un unico archivo formato .zip nombrado con el primer nombre + primer apellido + Matricula,
+
+ver ejemplo:  GABRIEL_VILLALONA_131202.ZIP
+
+mira esto
